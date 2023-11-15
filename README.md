@@ -6,7 +6,7 @@
 
 1. Objectives
 2. Data Collection
-3. Data Cleaning and Preparation
+3. Data Cleaning and Preprocessing
 4. Exploratory Data Analysis
 5. Interpreting Results
 6. Review and Next Steps
